@@ -6,7 +6,8 @@ This project uses the Pandas library to scrape all Escambia County COVID-19 stat
 1. Download the repository
 2. Change Directory to the Repository
 
-Then run: > mysql < florida_covid_stats.sql
+Then run: 
+> mysql < florida_covid_stats.sql
 
 
 ## Usage
