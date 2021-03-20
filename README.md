@@ -14,7 +14,15 @@ Then run:
 
 This project scrapes through the Florida Department of Health Excel spreadsheet, creating a CSV file that includes all instances of Escambia county.
 
+![image](https://user-images.githubusercontent.com/53328559/111859728-2fce8100-8900-11eb-8307-323ff6ceac6f.png)
+
+![image](https://user-images.githubusercontent.com/53328559/111859738-3bba4300-8900-11eb-835a-27664e3c52c3.png)
+
+
 Then, it creates a local MySQL database, inserting each instance of Escambia COVID-19 information from the spreadsheet into the local database.
+
+![image](https://user-images.githubusercontent.com/53328559/111859779-8a67dd00-8900-11eb-9e27-9755576a2270.png)
+
 
 ![image](https://user-images.githubusercontent.com/53328559/111854536-e9b3f600-88dc-11eb-8faf-b0101ca123b8.png)
 
@@ -28,6 +36,9 @@ Using SQL, the project filters through the database, returning each age group wi
 ## Visualizations
 
 The project uses the Plotly library to create a graph visualizing each age group with the corresponding amount of infections: 
+
+![image](https://user-images.githubusercontent.com/53328559/111859800-b08d7d00-8900-11eb-8fac-68d31a7e7adb.png)
+
 
 ![image](https://user-images.githubusercontent.com/53328559/111854823-8f1b9980-88de-11eb-98fe-b4201223e01e.png)
 
