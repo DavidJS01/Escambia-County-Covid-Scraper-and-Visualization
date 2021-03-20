@@ -5,10 +5,12 @@ This project uses the Pandas library to scrape all Escambia County COVID-19 stat
 ## Installation
 1. Download the repository
 2. Change Directory to the Repository
+3. Go to this [Florida Department of Health Website](http://open-fdoh.hub.arcgis.com/datasets/florida-covid19-case-line-data-3/data) and download the CSV file
+4. Place the CSV file into the same folder as the Python and SQL file
+
 
 Then run: 
 > mysql < florida_covid_stats.sql
-
 
 ## Usage
 
