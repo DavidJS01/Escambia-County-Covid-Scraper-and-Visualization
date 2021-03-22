@@ -43,11 +43,17 @@ The project uses the Plotly library to create a graph visualizing each age group
 
 
 ![image](https://user-images.githubusercontent.com/53328559/111854823-8f1b9980-88de-11eb-98fe-b4201223e01e.png)
+![image](https://user-images.githubusercontent.com/53328559/111968300-3d2d6c00-8ab6-11eb-9d06-d9283cdf0726.png)
+
 
 ![image](https://user-images.githubusercontent.com/53328559/111855695-998c6200-88e3-11eb-8a79-134fbf09d161.png)
 
 
-Using the Escambia-exclusive CSV file created from the Florida Department of Health, here is an excel visualization that compares total case infections by gender:
+CSV File Created from Script:
+
+![image](https://user-images.githubusercontent.com/53328559/111968530-7b2a9000-8ab6-11eb-9561-8d3ec3d67e6c.png)
+
+Pie chart visualization using the Escambia-only created CSV file:
 
 ![image](https://user-images.githubusercontent.com/53328559/111855686-8bd6dc80-88e3-11eb-87b0-96aff525e0c9.png)
 
