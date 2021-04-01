@@ -1,7 +1,6 @@
 # Escambia County COVID Statistics Scraper
 
-This project uses the Pandas library to scrape all Escambia County COVID-19 stats from an excel file published by the Florida Department of Health.
-
+This project uses Python with the Pandas library to scrape the Florida Department of Health's COVID Statistics CSV file. Then, the scraped data is stored in a SQL database, where SQL is used to transform the data for visualization. The Python script then creates a new CSV file for Escambia county's Covid stats. 
 ![GithubBanner](https://user-images.githubusercontent.com/53328559/113212506-b6059400-922b-11eb-88fe-171baba2bd4c.png)
 
 
